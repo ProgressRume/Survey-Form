@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(8, 189, 8);
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+form {
+background-color: white;
+margin: auto;
+width: 40%;
+text-align: justify;
+padding: 15px 10px;
+border-style: groove;
+}
+
+label {
+    display: block;
+    padding: 15px 0 2px 0;
+}
+
+#age {
+  width: 97%;  
+height: 25px;
+}
+
+#name {
+    width: 97%;  
+  height: 25px;
+  }
+
+  #email {
+    width: 97%;  
+  height: 25px;
+  }
+
+  #role {
+    width: 97%;  
+  height: 25px;
+  }
+
+  #comment {
+    width: 97%;  
+  height: 35px;
+  }
+
+  button {
+    width: 97%;  
+  height: 25px;
+  background-color: green;
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  }
